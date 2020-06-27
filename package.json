@@ -1,6 +1,6 @@
 {
   "name": "extra-ini",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "INI is an informal standard for configuration files of software.",
   "main": "index.js",
   "module": "index.mjs",
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-ini/issues"
   },
-  "homepage": "https://github.com/nodef/extra-ini#readme"
+  "homepage": "https://github.com/nodef/extra-ini#readme",
+  "devDependencies": {
+    "extra-build": "^1.0.189"
+  }
 }
