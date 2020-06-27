@@ -1,6 +1,6 @@
 {
   "name": "extra-ini",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "INI is an informal standard for configuration files of software.",
   "main": "index.js",
   "module": "index.mjs",
