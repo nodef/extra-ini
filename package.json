@@ -1,0 +1,23 @@
+{
+  "name": "extra-ini",
+  "version": "0.0.1",
+  "description": "INI is an informal standard for configuration files of software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-ini.git"
+  },
+  "keywords": [
+    "extra",
+    "ini"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-ini/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-ini#readme"
+}
